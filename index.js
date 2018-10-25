@@ -1,4 +1,4 @@
-#!/usr/bin/env node   //让终端知道用node执行
+#!/usr/bin/env node
 
 const program = require('commander'); //处理终端输入的库
 const package = require('./package.json'); 
